@@ -8,5 +8,6 @@ Clone Down Repository
 
 NPM Install
 
-cd AmerianWell directory
+cd AmerianWell file directory
+
 node main.js
