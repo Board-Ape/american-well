@@ -4,9 +4,11 @@ Coding Challenge: return the three smallest non-repeating numerical valus from t
 
 * Must Have Node installed *
 
-Clone Down Repository
+Clone Down Repository:
 
-NPM Install
+git clone https://github.com/Cache123/american-well.git
+
+npm install
 
 cd AmerianWell file directory
 
