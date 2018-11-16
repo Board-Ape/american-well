@@ -2,7 +2,7 @@
 Coding Challenge: return the three smallest non-repeating numerical valus from this endpoint "https://test.anytime.org/string.txt"
 
 
-* Must Node installed *
+* Must Have Node installed *
 
 Clone Down Repository
 
